@@ -1,0 +1,10 @@
+C:\Users\katyj\source\repos\work4_\work4_\bin\Debug\work4_.exe.config
+C:\Users\katyj\source\repos\work4_\work4_\bin\Debug\work4_.exe
+C:\Users\katyj\source\repos\work4_\work4_\bin\Debug\work4_.pdb
+C:\Users\katyj\source\repos\work4_\work4_\obj\Debug\work4_.csproj.AssemblyReference.cache
+C:\Users\katyj\source\repos\work4_\work4_\obj\Debug\work4_.Productfrm.resources
+C:\Users\katyj\source\repos\work4_\work4_\obj\Debug\work4_.Properties.Resources.resources
+C:\Users\katyj\source\repos\work4_\work4_\obj\Debug\work4_.csproj.GenerateResource.cache
+C:\Users\katyj\source\repos\work4_\work4_\obj\Debug\work4_.csproj.CoreCompileInputs.cache
+C:\Users\katyj\source\repos\work4_\work4_\obj\Debug\work4_.exe
+C:\Users\katyj\source\repos\work4_\work4_\obj\Debug\work4_.pdb
